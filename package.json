@@ -1,5 +1,6 @@
 {
   "name": "typescript-json-validator",
+  "version": "2.2.2",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "bin": {
